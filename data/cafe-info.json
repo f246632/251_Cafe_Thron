@@ -1,0 +1,35 @@
+{
+  "name": "Cafe Thron",
+  "category": "Café & Bar",
+  "address": {
+    "street": "Boppstraße 11",
+    "city": "Berlin",
+    "postalCode": "10967",
+    "district": "Kreuzberg",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 1512 2202220",
+    "phoneDisplay": "+49 1512 2202220",
+    "email": "",
+    "website": "https://club-thron.de"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/thron_1/",
+    "facebook": "https://www.facebook.com/ThronBarOfficial/",
+    "tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g187323-d26456954-Reviews-Cafe_Thron-Berlin.html"
+  },
+  "hours": {
+    "note": "Contact for current hours"
+  },
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Guter Kaffee",
+    "Cocktail Bar",
+    "Event Location",
+    "Lounge Atmosphere",
+    "DJ Nights (Friday & Saturday)"
+  ],
+  "description": "Cafe Thron ist ein gemütliches Café und eine stilvolle Bar im Herzen von Kreuzberg. Genießen Sie unsere große Auswahl an Teesorten, exzellenten Kaffee und kreative Cocktails in entspannter Atmosphäre.",
+  "googleMaps": "https://www.google.com/maps/search/?api=1&query=Cafe%20Thron&query_place_id=ChIJWTGZ3clPqEcRF150lP0RHPw"
+}

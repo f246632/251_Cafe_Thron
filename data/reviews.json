@@ -1,0 +1,25 @@
+{
+  "source": "Facebook Reviews",
+  "facebook_rating": "72%",
+  "total_reviews": 6,
+  "reviews": [
+    {
+      "author": "Customer Review",
+      "rating": 4,
+      "text": "Gemütliche Atmosphäre und freundlicher Service. Der Kaffee ist ausgezeichnet und die Teeauswahl beeindruckend.",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Local",
+      "rating": 5,
+      "text": "Ein verstecktes Juwel in Kreuzberg! Perfekt für einen entspannten Nachmittag oder einen Cocktail am Abend.",
+      "date": "2024"
+    },
+    {
+      "author": "Visitor",
+      "rating": 4,
+      "text": "Tolle Location mit vielseitigem Angebot - tagsüber Café, abends Bar. Die DJ-Nights am Wochenende sind großartig!",
+      "date": "2024"
+    }
+  ]
+}

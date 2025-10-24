@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "name": "Kaffee & Espresso",
+      "items": [
+        {"name": "Espresso", "price": "2.50€", "description": "Klassischer italienischer Espresso"},
+        {"name": "Cappuccino", "price": "3.50€", "description": "Mit cremigem Milchschaum"},
+        {"name": "Latte Macchiato", "price": "3.80€", "description": "Geschichteter Kaffee-Genuss"},
+        {"name": "Flat White", "price": "3.80€", "description": "Australische Kaffeespezialität"},
+        {"name": "Americano", "price": "3.00€", "description": "Espresso mit heißem Wasser"}
+      ]
+    },
+    {
+      "name": "Tee-Spezialitäten",
+      "featured": true,
+      "items": [
+        {"name": "Grüner Tee", "price": "3.50€", "description": "Auswahl erlesener grüner Teesorten"},
+        {"name": "Schwarzer Tee", "price": "3.50€", "description": "Klassische schwarze Teesorten"},
+        {"name": "Kräutertee", "price": "3.50€", "description": "Verschiedene Kräutermischungen"},
+        {"name": "Früchtetee", "price": "3.50€", "description": "Fruchtige Teemischungen"},
+        {"name": "Chai Latte", "price": "4.20€", "description": "Würziger Chai mit Milchschaum"}
+      ]
+    },
+    {
+      "name": "Erfrischungsgetränke",
+      "items": [
+        {"name": "Hausgemachte Limonade", "price": "4.50€", "description": "Täglich frisch zubereitet"},
+        {"name": "Eistee", "price": "3.80€", "description": "Selbstgemacht"},
+        {"name": "Frisch gepresste Säfte", "price": "4.80€", "description": "Saisonal wechselnd"},
+        {"name": "Smoothies", "price": "5.50€", "description": "Verschiedene Sorten"}
+      ]
+    },
+    {
+      "name": "Cocktails & Bar",
+      "items": [
+        {"name": "Signature Cocktails", "price": "ab 8.00€", "description": "Unsere Spezialitäten"},
+        {"name": "Klassiker", "price": "ab 7.00€", "description": "Mojito, Caipirinha, Aperol Spritz"},
+        {"name": "Craft Beer", "price": "ab 4.50€", "description": "Wechselnde Auswahl"},
+        {"name": "Weine", "price": "ab 4.50€", "description": "Ausgewählte Weine aus Europa"}
+      ]
+    },
+    {
+      "name": "Snacks & Kleinigkeiten",
+      "items": [
+        {"name": "Croissant", "price": "2.80€", "description": "Frisch gebacken"},
+        {"name": "Kuchen des Tages", "price": "4.20€", "description": "Täglich wechselnd"},
+        {"name": "Bagel", "price": "5.50€", "description": "Mit verschiedenen Toppings"},
+        {"name": "Avocado Toast", "price": "6.80€", "description": "Auf Sauerteigbrot"},
+        {"name": "Quiche", "price": "5.80€", "description": "Hausgemacht"}
+      ]
+    }
+  ]
+}
